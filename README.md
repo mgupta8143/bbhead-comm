@@ -1,5 +1,7 @@
 # Basketball Head (BBHead)
 
+[][https://media.giphy.com/media/GyRRNIkbgBKHkLsKVb/giphy.gif]
+
 ## What is BBHead?
 BBHead is a chatting application that automatically opens NBA game rooms as the games occur live time. The hope is that NBA fans who want to have discussion
 during a game with ohers can do easily using BBHead.
