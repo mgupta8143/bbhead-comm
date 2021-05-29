@@ -16,5 +16,7 @@ This application was built using Node.js, Express.js, Socket.io, MongoDB, and th
 
 ## Potential Improvements
 * The app can be made more responsive
-* Adding effects in game chats by the application whenever players score
+* Adding effects in game chats by the application whenever players scores/assists/rebounds
+* Adding confetti effects when a game is done with a score board in the black zone above the chat
+* Creating effects whenever the lead changes.
 * Adding an in-depth friend/profile system
