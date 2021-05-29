@@ -6,3 +6,8 @@ where users can chat. Fans can engage in the chat as guests or otherwise registe
 
 
 This application was built using Node.js, Express.js, Socket.io, MongoDB, and the EJS templating engine. The application was deployed on Heroku. 
+
+## How to Use BBHead
+* Go to this link https://bbhead-comm.herokuapp.com/
+* Then, click a game on the left (if there are no games, either reload the page or check if there are any games on currently)
+* From there, you can engage in the chat as you like!
